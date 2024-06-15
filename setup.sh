@@ -9,7 +9,7 @@ headless = true\n\
 " > ~/.streamlit/config.toml
 
 # Install required dependencies
-pip install -r requirements.txt
+pip install -r './requirements.txt'
 
 # Optional: Load environment variables
 # export API_KEY="your_api_key"
